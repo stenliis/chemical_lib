@@ -1,0 +1,9 @@
+{
+    //exclude data file for search index
+    "search.exclude": {
+        "**/.git": true,
+        "**/data": true,
+        "**/out": true,
+        "**/__pycache__": true
+    
+}

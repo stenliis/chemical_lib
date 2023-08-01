@@ -1,0 +1,17 @@
+Erythromycin-M29
+
+InChI=1S/CH2O/c1-2/h1H2
+
+#In-silico ESI-MS/MS [M-H]- Spectra
+#PREDICTED BY CFM-ID 4.4.7
+#ID=NullId
+#InChI=1S/CH2O/c1-2/h1H2
+#InChiKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
+energy0
+29.00329 100.00 0 (100)
+energy1
+29.00329 100.00 0 (100)
+energy2
+29.00329 100.00 0 (100)
+
+0 29.0032882319 [CH-]=O

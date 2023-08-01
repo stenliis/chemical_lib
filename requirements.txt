@@ -1,0 +1,5 @@
+#Testing
+pytest>=7.3.1
+molmass>=2023.4.10
+openbabel-wheel>=3.1.1.16
+rdkit>=2023.3.2
